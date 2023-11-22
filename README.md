@@ -4,7 +4,7 @@
 
 本项目是一个基于Alpha-beta剪枝算法的五子棋博弈程序，前端使用EGE图形库实现
 
-![运行截图](https://github.com/wtupdl/Minimum_Spanning_Tree_Application_Examples/blob/master/img/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91.png)
+![运行截图]([https://github.com/wtupdl/Minimum_Spanning_Tree_Application_Examples/blob/master/img/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91.png](https://github.com/wtupdl/AI_Gobang/blob/main/img/a.png?raw=true))
 
 ## 操作方式
 
