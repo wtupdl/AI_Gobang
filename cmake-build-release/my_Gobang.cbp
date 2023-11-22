@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="my_Gobang"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/My_Clion/clion_project/AI_Gobang/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_Gobang">
+				<Option output="D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/my_Gobang.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/My_Clion/clion_project/AI_Gobang/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/My_Clion/my_lib/EGE20.08/include"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 my_Gobang"/>
+					<CompileFile command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_Gobang/fast">
+				<Option output="D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/my_Gobang.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/My_Clion/clion_project/AI_Gobang/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/My_Clion/my_lib/EGE20.08/include"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+					<Add directory="D:/My_Clion/my_lib/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 my_Gobang/fast"/>
+					<CompileFile command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/My_Clion/clion_project/AI_Gobang/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/My_Clion/clion_project/AI_Gobang/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/My_Clion/my_lib/mingw64/bin/mingw32-make.exe -f &quot;D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/My_Clion/clion_project/AI_Gobang/Calculation.cpp">
+			<Option target="my_Gobang"/>
+		</Unit>
+		<Unit filename="D:/My_Clion/clion_project/AI_Gobang/graphicInterface.cpp">
+			<Option target="my_Gobang"/>
+		</Unit>
+		<Unit filename="D:/My_Clion/clion_project/AI_Gobang/head.h">
+			<Option target="my_Gobang"/>
+		</Unit>
+		<Unit filename="D:/My_Clion/clion_project/AI_Gobang/main.cpp">
+			<Option target="my_Gobang"/>
+		</Unit>
+		<Unit filename="D:/My_Clion/clion_project/AI_Gobang/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

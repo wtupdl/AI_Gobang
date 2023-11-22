@@ -1,0 +1,1 @@
+  -LD:/My_Clion/my_lib/EGE20.08/lib/mingw64  -Wl,-Bstatic -lgraphics64 -lgdi32 -limm32 -lmsimg32 -lole32 -loleaut32 -lwinmm -luuid -lgdiplus -Wl,-Bdynamic -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

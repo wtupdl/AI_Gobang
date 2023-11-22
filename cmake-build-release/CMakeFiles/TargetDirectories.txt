@@ -1,0 +1,3 @@
+D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/CMakeFiles/my_Gobang.dir
+D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/My_Clion/clion_project/AI_Gobang/cmake-build-release/CMakeFiles/rebuild_cache.dir
