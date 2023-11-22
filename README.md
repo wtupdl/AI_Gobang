@@ -5,6 +5,7 @@
 本项目是一个基于Alpha-beta剪枝算法的五子棋博弈程序，前端使用EGE图形库实现
 
 ![这是图片](https://github.com/wtupdl/AI_Gobang/blob/main/img/a.png?raw=true "Magic Gardens")
+![这是图片](https://github.com/wtupdl/AI_Gobang/blob/main/img/b.png?raw=true "Magic Gardens")
 
 ## 操作方式
 
